@@ -7,4 +7,4 @@ print(result.text)
 
 #written in Terminal
 #to verify: echo $GOOGLE_API_KEY
-
+#trying again
